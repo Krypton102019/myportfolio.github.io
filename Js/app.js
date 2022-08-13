@@ -1,4 +1,4 @@
-new WOW().init();
+
 $('#skill-btn').on('click',function (){
     $(this).addClass('active-btn')
     $("#edu-btn").removeClass('active-btn')

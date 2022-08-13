@@ -626,3 +626,20 @@ color: var(--primary);
      max-width: 1770px;
  }
  }
+
+
+.ani-delay-1{
+    animation-delay: 0.5s;
+}
+.ani-delay-2{
+    animation-delay: 1s;
+}
+.ani-delay-3{
+    animation-delay: 1.5s;
+}
+.ani-delay-4{
+    animation-delay:2s
+}
+.ani-delay-5{
+    animation-delay:2.5s;
+}
