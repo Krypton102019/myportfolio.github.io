@@ -13,7 +13,7 @@
     /*font-family: 'Fira Sans Condensed', sans-serif;*/
     /*font-family: 'Comfortaa', cursive;*/
     font-family: 'Exo 2', sans-serif;
-    scroll-behavior: smooth;
+scroll-behavior: smooth;
 }
 .map{
     width: 503px;
@@ -636,10 +636,10 @@ color: var(--primary);
  }
 @media screen and (min-width: 1200px) {
     header .container:nth-child(1){
-        max-width: 1400px;
+        max-width: 1500px;
     }
 }
- @media screen and (min-width: 2042px) {
+ @media screen and (min-width: 1920px) {
  header .container:nth-child(1){
      max-width: 1770px;
  }
